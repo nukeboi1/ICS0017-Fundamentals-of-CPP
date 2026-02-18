@@ -1,4 +1,3 @@
-// copypasting from pdf is broken so:
 #include <iostream>
 using namespace std;
 void add_numbers(double n1, double n2) {
