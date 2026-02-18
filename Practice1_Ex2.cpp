@@ -15,6 +15,3 @@ void assignment_operator() {
 	//----DO NOT MODIFY THE CODE BELOW THIS LINE---
 	cout << num1 << " " << num2;
 }
-int main() {
-	return 0;
-}
