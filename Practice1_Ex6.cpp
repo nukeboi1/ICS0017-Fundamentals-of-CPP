@@ -1,10 +1,10 @@
-#include <iostream>;
+// Replace ___ with your code below
+#include <iostream>
 using namespace std;
 int main() {
-	double km, miles;
-	cout << "Enter the distance in kilometers: ";
-	cin >> km; //takes user input
-	miles = km * 0.621; // converts km to miles
-	cout << endl << "Distance in miles: " << miles; // prints the result
-	return 0;
+	// create double variable number and assign 5.6 to it
+	double number = 5.6;
+		// print the square of number
+	cout << number * number;
+		return 0;
 }
