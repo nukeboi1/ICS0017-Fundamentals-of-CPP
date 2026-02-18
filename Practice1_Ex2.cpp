@@ -14,4 +14,5 @@ void assignment_operator() {
 	//----WRITE YOUR CODE ABOVE THIS LINE---
 	//----DO NOT MODIFY THE CODE BELOW THIS LINE---
 	cout << num1 << " " << num2;
+	return 0;
 }

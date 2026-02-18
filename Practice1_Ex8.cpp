@@ -11,4 +11,5 @@ int main() {
 	else {
 		cout << endl << "Nope, that's not a leap year.";
 	}
+return 0;
 }

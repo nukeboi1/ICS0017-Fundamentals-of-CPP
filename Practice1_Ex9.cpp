@@ -7,4 +7,5 @@ int main() {
 		result = number * i;
 		cout << number << " * " << i << " = " << result << endl;
 	}
+return 0;
 }
