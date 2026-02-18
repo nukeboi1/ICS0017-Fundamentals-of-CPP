@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice3\\Practice3_Ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice3\\Practice3_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice3\\Practice3_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Practice3_Ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex3.cpp",
+              "RelativeDocumentMoniker": "Practice3\\Practice3_Ex3.cpp",
+              "ToolTip": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex3.cpp",
+              "RelativeToolTip": "Practice3\\Practice3_Ex3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T18:21:34.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice3_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex2.cpp",
+              "RelativeDocumentMoniker": "Practice3\\Practice3_Ex2.cpp",
+              "ToolTip": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex2.cpp",
+              "RelativeToolTip": "Practice3\\Practice3_Ex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T18:16:30.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Practice3_Ex1.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice3\\Practice3_Ex1.cpp",
               "RelativeDocumentMoniker": "Practice3\\Practice3_Ex1.cpp",
