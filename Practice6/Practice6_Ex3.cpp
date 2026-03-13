@@ -3,8 +3,8 @@ using namespace std;
 
 class Area {
 public:
-	void compute_area(int lenght, int breadth) {
-		int area = lenght * breadth;
+	void compute_area(int length, int breadth) {
+		int area = length * breadth;
 		cout << area << endl;
 	}
 	void compute_area(int length) {

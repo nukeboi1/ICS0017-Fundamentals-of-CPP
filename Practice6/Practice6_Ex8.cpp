@@ -3,10 +3,10 @@ using namespace std;
 class Polygon {
 	virtual double area() = 0;
 };
-class Trianle : public Polygon {
+class Triangle : public Polygon {
 public:
 	double base, height;
-	Trianle(double base, double height) : base(base), height(height) {}
+	Triangle(double base, double height) : base(base), height(height) {}
 	double area() {
 		return 0.5 * base * height;
 	}
@@ -25,7 +25,7 @@ public:
 int main() {
 	double base, height, length, breadth;
 	cin >> base >> height >> length >> breadth;
-	Trianle t1(base, height);
+	Triangle t1(base, height);
 	Rectangle r1(length, breadth);
 	double area_triangle = t1.area();
 	double area_rectangle = r1.area();
