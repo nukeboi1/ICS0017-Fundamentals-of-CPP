@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string> //for getline
 using namespace std;
 
 class Greeting {

@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+class Area {
+public:
+	void compute_area(int lenght, int breadth) {
+		int area = lenght * breadth;
+		cout << area << endl;
+	}
+	void compute_area(int length) {
+		int area = length * length;
+		cout << area << endl;
+	}
+};
+int main() {
+	Area a1;
+	int rect_length, rect_breadth, square_length;
+	cin >> rect_length >> rect_breadth >> square_length;
+	a1.compute_area(rect_length, rect_breadth);
+	a1.compute_area(square_length);
+	return 0;
+}
