@@ -6,7 +6,7 @@ public:
 protected:
 	string password;
 };
-class Email : public Account {
+class Email : protected Account {
 public:
 	void set_id(string acc) {
 		account_id = acc;
