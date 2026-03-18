@@ -5,7 +5,6 @@ class Rectangle {
 public:
 	static int length, breadth;
 };
-//define the static variables
 int Rectangle::length;
 int Rectangle::breadth;
 int main() {
