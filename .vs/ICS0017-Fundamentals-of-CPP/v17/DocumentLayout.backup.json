@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\Practice13_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice13\\Practice13_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice13\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice11\\Practice11_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice11\\Practice11_Ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice11\\Practice11_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Practice11\\Practice11_Ex1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +54,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numbers.txt",
+              "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\numbers.txt",
+              "RelativeDocumentMoniker": "Practice13\\numbers.txt",
+              "ToolTip": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\numbers.txt",
+              "RelativeToolTip": "Practice13\\numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-29T11:10:57.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Practice13_Ex1.cpp",
+              "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\Practice13_Ex1.cpp",
+              "RelativeDocumentMoniker": "Practice13\\Practice13_Ex1.cpp",
+              "ToolTip": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice13\\Practice13_Ex1.cpp",
+              "RelativeToolTip": "Practice13\\Practice13_Ex1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-29T10:39:49.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Practice11_Ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice11\\Practice11_Ex2.cpp",
+              "RelativeDocumentMoniker": "Practice11\\Practice11_Ex2.cpp",
+              "ToolTip": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice11\\Practice11_Ex2.cpp",
+              "RelativeToolTip": "Practice11\\Practice11_Ex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T10:10:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Practice11_Ex1.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice11\\Practice11_Ex1.cpp",
               "RelativeDocumentMoniker": "Practice11\\Practice11_Ex1.cpp",
@@ -55,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Practice10_Ex3.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice10\\Practice10_Ex3.cpp",
               "RelativeDocumentMoniker": "Practice10\\Practice10_Ex3.cpp",
@@ -68,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Practice10_Ex2.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice10\\Practice10_Ex2.cpp",
               "RelativeDocumentMoniker": "Practice10\\Practice10_Ex2.cpp",
@@ -81,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Practice10_Ex1.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice10\\Practice10_Ex1.cpp",
               "RelativeDocumentMoniker": "Practice10\\Practice10_Ex1.cpp",
@@ -94,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Practice9_Ex6.cpp",
               "DocumentMoniker": "C:\\Users\\kotom\\source\\repos\\ICS0017-Fundamentals-of-CPP\\Practice9\\Practice9_Ex6.cpp",
               "RelativeDocumentMoniker": "Practice9\\Practice9_Ex6.cpp",
